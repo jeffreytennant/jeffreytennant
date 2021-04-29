@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffreytennant
 - 👀 I’m interested in ... Movies, music, and helping people!
-- 🌱 I’m currently learning ... to be a fullstack developer with Lambda School
+- 🌱 I’m currently learning ... Python, HTML, CSS, going to school for a degree in Cybersecurity
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... jefftennant@gmail.com
 
